@@ -9,8 +9,8 @@
     
     <div>
       <ul>
-        <li><p><a href="/NoiseTests.html"><b>Noise</b> Fault Injection</a><br></li>
-        <li><p><a href="/NoiseTests.html"><b>Max and Freeze</b> Value Fault Injection</a><br></li>
+        <li><p><a href="/NoiseTests.html"><b>Noise</b> Fault Injection</a></li>
+        <li><p><a href="/NoiseTests.html"><b>Max and Freeze</b> Value Fault Injection</a></li>
       </ul>
     </div>
     
