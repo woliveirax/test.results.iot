@@ -3,6 +3,16 @@
     <title>Test Results</title>
   </head>
   <body>
-    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+    <h1>Test Result links</h1>
+    <p> Bellow we can find the links for the test data overview </p>
+    <br>
+    
+    <div>
+      <ul>
+        <li><p><a href="/NoiseTests.html"><b>Noise</b> Fault Injection</a><br></li>
+        <li><p><a href="/NoiseTests.html"><b>Max and Freeze</b> Value Fault Injection</a><br></li>
+      </ul>
+    </div>
+    
   </body>
 </html>
