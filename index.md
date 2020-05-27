@@ -5,4 +5,3 @@
 <ul>
   <li><p><a href="/NoiseTests.html"><b>Noise</b> Fault Injection</a>
   <li><p><a href="/NoiseTests.html"><b>Max and Freeze</b> Value Fault Injection</a>
-</ul>
